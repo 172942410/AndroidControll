@@ -1,0 +1,2 @@
+# AndroidControll
+pc和android通过Usb连接进行socket通信，通过screencap进行画面展示实时控制
